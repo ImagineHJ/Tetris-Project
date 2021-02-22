@@ -2,7 +2,7 @@
 This program has 4 menus play mode, rank mode, recommend mode and exit respectively.
 
 ## 1. Play
--The game starts when the user input is 1.
+- The game starts when the user input is 1.
 
 -The block gets stacked up on the field.
 -The block moves and rotates according to the user key input.
