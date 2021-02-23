@@ -2,6 +2,11 @@
 This program has 4 menus play mode, rank mode, recommend mode and exit respectively.
 
 ## 1. Play
+
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/57395765/108796028-1ec57500-75cb-11eb-893f-6cbf6569b219.png">
+
+
+
 - The game starts when the user input is 1.
 
 - The block gets stacked up on the field.
