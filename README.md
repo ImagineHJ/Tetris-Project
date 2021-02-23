@@ -3,7 +3,7 @@ This program has 4 menus play mode, rank mode, recommend mode and exit respectiv
 
 ## 1. Play
 
-<img width="950" alt="image" src="https://user-images.githubusercontent.com/57395765/108796028-1ec57500-75cb-11eb-893f-6cbf6569b219.png">
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/57395765/108796028-1ec57500-75cb-11eb-893f-6cbf6569b219.png">
 
 
 
