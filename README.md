@@ -1,5 +1,6 @@
 # Tetris-Project
 This program has 4 menus play mode, rank mode, recommend mode and exit respectively.
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/57395765/108796180-7fed4880-75cb-11eb-9e97-71a44fb0196d.png">
 
 ## 1. Play
 
