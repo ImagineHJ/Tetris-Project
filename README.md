@@ -32,3 +32,7 @@ This is the mode where you can play the basic tetris game. The score increases a
 
 ## 4. Exit
 - The program ends when the user input is 4.
+
+
+For more information, please refer to the blog postings.
+https://tvimagine.video.blog/category/projects/
