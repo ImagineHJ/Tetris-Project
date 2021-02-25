@@ -4,6 +4,9 @@ This program has 4 menus.
 
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/57395765/108796180-7fed4880-75cb-11eb-9e97-71a44fb0196d.png">
 
+
+For more information, please refer to the blog postings.
+https://tvimagine.video.blog/category/projects/
 ## 1. Play
 
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/57395765/108796028-1ec57500-75cb-11eb-893f-6cbf6569b219.png">
@@ -34,5 +37,4 @@ This is the mode where you can play the basic tetris game. The score increases a
 - The program ends when the user input is 4.
 
 
-For more information, please refer to the blog postings.
-https://tvimagine.video.blog/category/projects/
+
