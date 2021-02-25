@@ -2,7 +2,7 @@
 This program has 4 menus.
 
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/57395765/108796180-7fed4880-75cb-11eb-9e97-71a44fb0196d.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/57395765/108796180-7fed4880-75cb-11eb-9e97-71a44fb0196d.png">
 
 ## 1. Play
 
