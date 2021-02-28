@@ -29,6 +29,9 @@ This is the mode where you can play the basic tetris game. The score increases a
 - The block, field, score, and other information of the game is shown properly.
 
 
+
+
+
 ## 2. Rank
 
 ## 3. Recommend
