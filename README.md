@@ -25,7 +25,7 @@ This is the mode where you can play the basic tetris game. The score increases a
 - The game ends when there's no place to stack any blocks.
 - The block is randomly choosed among 7 types.
 - The game shows the shape of the next block.
-- The game ends when the user input is 'q'
+- The game ends when the user input is 'q'.
 - The block, field, score, and other information of the game is shown properly.
 
 
