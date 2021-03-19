@@ -37,7 +37,6 @@ This is the mode where you can play the basic tetris game. The score increases a
 ## 3. Recommend
 
 ## 4. Exit
-- The program ends when the user input is 4.
--
+- The program ends when the user input is 4
 
 
